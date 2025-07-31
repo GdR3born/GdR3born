@@ -4,8 +4,8 @@
 ---
 
 # 🐶🎉 Hey there, friend! 🎉🐶
-<p align="center">
-  <img src="https://i.pinimg.com/originals/54/35/0e/54350ef2508decb79038af9a90d43f15.gif" alt="Rias Gremory GIF"  width="950" height="350" />
+<p align="left">
+  <img src="https://i.pinimg.com/originals/54/35/0e/54350ef2508decb79038af9a90d43f15.gif" alt="Rias Gremory GIF"  width="1050" height="350" />
 </p>
 
   🐶💻 I’m Addison (he/him) - builder of tools, breaker of things (ethically), and learner of all things Linux and cyber. I am passionate about cyber security and code for fun. I'm currently diving into scripting, red teaming, and penetration testing. My work is a mix of technology, problem-solving, and curiosity — mostly through hacking, Linux, and creative coding.
