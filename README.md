@@ -3,7 +3,7 @@
 
 ---
 
-# 🐶🎉 Hey there, friend! 🎉🐶
+# 🐶🎉 Welcome, Pwn! 🎉🐶
 <p align="left">
   <img src="https://i.pinimg.com/originals/54/35/0e/54350ef2508decb79038af9a90d43f15.gif" alt="Rias Gremory GIF"  width="1050" height="350" />
 </p>
