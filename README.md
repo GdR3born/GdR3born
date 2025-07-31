@@ -1,18 +1,19 @@
 <img width="2560" height="1440" alt="Banner_logo" src="https://github.com/user-attachments/assets/997488c2-3555-4315-b99b-65ae042a9834" />
+-credits to @oleisia_
 
 ---
 
-# 🧠💻 Welcome to the Lab — Where Scripts Come Alive
+# 🐶🎉 Hey there, friend! 🎉🐶
+<p align="center">
+  <img src="https://i.pinimg.com/originals/54/35/0e/54350ef2508decb79038af9a90d43f15.gif" alt="Rias Gremory GIF"  width="950" height="350" />
+</p>
 
-Greetings, curious coder 👾  
-You've just stumbled into a digital sandbox where scripts evolve, shells run wild, and exploits are just educational.
-  
-  🦁💻 I’m Addison (he/him) - builder of tools, breaker of things (ethically), and learner of all things Linux and cyber. I am a passionate coder and cybersecurity enthusiast currently diving deep into scripting, red teaming, and penetration testing. My work blends technology, problem-solving, and curiosity — often through the lens of hacking, Linux, and creative coding.
+  🐶💻 I’m Addison (he/him) - builder of tools, breaker of things (ethically), and learner of all things Linux and cyber. I am passionate about cyber security and code for fun. I'm currently diving into scripting, red teaming, and penetration testing. My work is a mix of technology, problem-solving, and curiosity — mostly through hacking, Linux, and creative coding.
 
 🎮 scripting and code development  
 🔐 exploring red teaming & penetration testing  
 🖥 focused on Linux, automation, and security tools  
-📍 USA + online
+📍 ATL + online
 
 Always learning and leveling up in cybersecurity and coding.  
 Feel free to reach out for collaborations, open source projects, or just to chat tech!
@@ -31,13 +32,13 @@ Feel free to reach out for collaborations, open source projects, or just to chat
 
 ### 🕹️ If I'm not working, I'm usually doing one of these things:
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-Gaming-9146FF?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/-Listening%20to%20Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listening to Music" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/-Working%20Out-FF5733?style=for-the-badge&logo=dumbbell&logoColor=white" alt="Working Out" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/-Puzzles%20&%20Riddles-FFC300?style=for-the-badge&logo=pocketcasts&logoColor=black" alt="Puzzles & Riddles" style="margin: 5px;" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-Tennis-00BFFF?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Tennis" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/-Watching%20YouTube%20Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watching YouTube Tutorials" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/-Streaming-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Streaming" style="margin: 5px;" />
