@@ -7,7 +7,7 @@
 Greetings, curious coder 👾  
 You've just stumbled into a digital sandbox where scripts evolve, shells run wild, and exploits are just educational.
   
-  🦁🌺💻 I’m Addison (he/him) - builder of tools, breaker of things (ethically), and learner of all things Linux and cyber. I am a passionate coder and cybersecurity enthusiast currently diving deep into scripting, red teaming, and penetration testing. My work blends technology, problem-solving, and curiosity — often through the lens of hacking, Linux, and creative coding.
+  🦁💻 I’m Addison (he/him) - builder of tools, breaker of things (ethically), and learner of all things Linux and cyber. I am a passionate coder and cybersecurity enthusiast currently diving deep into scripting, red teaming, and penetration testing. My work blends technology, problem-solving, and curiosity — often through the lens of hacking, Linux, and creative coding.
 
 🎮 scripting and code development  
 🔐 exploring red teaming & penetration testing  
